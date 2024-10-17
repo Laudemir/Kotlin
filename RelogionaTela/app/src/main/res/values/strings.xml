@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Relogio na Tela</string>
+    <string name="textclock_format24hour_hh_mm">textClock.format24Hour = HH:mm</string>
+    <string name="textclock2_format12hour_hh_mm_ss">textClock2.format12Hour = HH:mm:ss</string>
+</resources>
