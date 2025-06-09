@@ -1,1 +1,1 @@
-Fonte kotlin para apresentação relogio na da activity
+Fonte kotlin para apresentação relogio na activity
